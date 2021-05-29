@@ -1,0 +1,11 @@
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\WAJGJCalculadoraBasica\WAJGJCalculadoraBasica\bin\Release\WAJGJCalculadoraBasica.exe
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\WAJGJCalculadoraBasica\WAJGJCalculadoraBasica\bin\Release\WAJGJCalculadoraBasica.pdb
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\WAJGJCalculadoraBasica\WAJGJCalculadoraBasica\bin\Release\WAJGJCalculadoraBasica.xml
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\WAJGJCalculadoraBasica\WAJGJCalculadoraBasica\obj\Release\WAJGJCalculadoraBasica.vbprojAssemblyReference.cache
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\WAJGJCalculadoraBasica\WAJGJCalculadoraBasica\obj\Release\WAJGJCalculadoraBasica.Form1.resources
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\WAJGJCalculadoraBasica\WAJGJCalculadoraBasica\obj\Release\WAJGJCalculadoraBasica.Resources.resources
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\WAJGJCalculadoraBasica\WAJGJCalculadoraBasica\obj\Release\WAJGJCalculadoraBasica.vbproj.GenerateResource.cache
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\WAJGJCalculadoraBasica\WAJGJCalculadoraBasica\obj\Release\WAJGJCalculadoraBasica.vbproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\WAJGJCalculadoraBasica\WAJGJCalculadoraBasica\obj\Release\WAJGJCalculadoraBasica.exe
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\WAJGJCalculadoraBasica\WAJGJCalculadoraBasica\obj\Release\WAJGJCalculadoraBasica.xml
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\WAJGJCalculadoraBasica\WAJGJCalculadoraBasica\obj\Release\WAJGJCalculadoraBasica.pdb

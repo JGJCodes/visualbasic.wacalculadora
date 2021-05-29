@@ -1,0 +1,10 @@
+C:\Users\jorge\AppData\Local\Temporary Projects\WAJGJCalculadoraBasica\bin\Debug\WAJGJCalculadoraBasica.exe
+C:\Users\jorge\AppData\Local\Temporary Projects\WAJGJCalculadoraBasica\bin\Debug\WAJGJCalculadoraBasica.pdb
+C:\Users\jorge\AppData\Local\Temporary Projects\WAJGJCalculadoraBasica\bin\Debug\WAJGJCalculadoraBasica.xml
+C:\Users\jorge\AppData\Local\Temporary Projects\WAJGJCalculadoraBasica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jorge\AppData\Local\Temporary Projects\WAJGJCalculadoraBasica\obj\Debug\WAJGJCalculadoraBasica.Form1.resources
+C:\Users\jorge\AppData\Local\Temporary Projects\WAJGJCalculadoraBasica\obj\Debug\WAJGJCalculadoraBasica.Resources.resources
+C:\Users\jorge\AppData\Local\Temporary Projects\WAJGJCalculadoraBasica\obj\Debug\WAJGJCalculadoraBasica.vbproj.GenerateResource.Cache
+C:\Users\jorge\AppData\Local\Temporary Projects\WAJGJCalculadoraBasica\obj\Debug\WAJGJCalculadoraBasica.exe
+C:\Users\jorge\AppData\Local\Temporary Projects\WAJGJCalculadoraBasica\obj\Debug\WAJGJCalculadoraBasica.xml
+C:\Users\jorge\AppData\Local\Temporary Projects\WAJGJCalculadoraBasica\obj\Debug\WAJGJCalculadoraBasica.pdb
